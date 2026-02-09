@@ -25,3 +25,4 @@ lark
 accelerate
 diffusers
 gpt4-openai-api
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
